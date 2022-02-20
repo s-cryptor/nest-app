@@ -1,7 +1,1 @@
-POST http://localhost:3000/products HTTP/1.1
-content-type: application/json
-
-{
-  "title": "Cheese",
-  "price": "150$"
-}
+GET http://localhost:3000/products HTTP/1.1
